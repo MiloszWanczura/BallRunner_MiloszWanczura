@@ -1,0 +1,1302 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "3C38407CDC69B96A9C50A4DA3B221DED3C77CB47",
+			"Assets": [
+				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A2C097021E9B39610D55033ED6D2A4F270CD9EC6",
+			"Assets": [
+				"/Engine/EngineMaterials/GizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "693F5D8441932DCA3C010659E10D80AA4CFED6FC",
+			"Assets": [
+				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
+			]
+		},
+		{
+			"ShaderMapHash": "C4359193E47C063A73C0B6249DA498374AA7DCFA",
+			"Assets": [
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "8D7D8117754FBCB3E6EAF4484CB55FBB0B7F49DB",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "1DE5B3C3078204FBD8C2559DA141189D5E37777E",
+			"Assets": [
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial",
+				"/Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "7B48EFA7785D362B0DE4CE89C337822BE851F69E",
+			"Assets": [
+				"/OculusVR/Materials/TouchForQuestRiftSControllerMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "70184CFFFB116A6DED3282DDC17BBBB75B712D41",
+			"Assets": [
+				"/OculusVR/Materials/touchController_mat"
+			]
+		},
+		{
+			"ShaderMapHash": "3E88D05642439823638181EBE6EAD4401D3AFD46",
+			"Assets": [
+				"/OculusVR/Materials/OculusMR_OpaqueColoredMaterial",
+				"/Engine/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color"
+			]
+		},
+		{
+			"ShaderMapHash": "2266C9E402E8BFB54E7D599DF2BE9C8C130D003F",
+			"Assets": [
+				"/OculusVR/Materials/OculusMR_ChromaKey"
+			]
+		},
+		{
+			"ShaderMapHash": "634BE28D834184364042562DF8D2C9F628C4777D",
+			"Assets": [
+				"/OpenXR/Devices/GoogleDaydream/MI_GoogleDaydream",
+				"/OpenXR/Devices/MicrosoftMixedReality/MI_MicrosoftMixedReality",
+				"/OpenXR/Devices/OculusTouch/MI_OculusTouch",
+				"/OpenXR/Devices/ValveIndex/Left/MI_left_ValveIndex",
+				"/OpenXR/Devices/OculusTouch_v2/MI_OculusTouch_v2",
+				"/OpenXR/Devices/OculusTouch_v3/MI_OculusTouch_v3"
+			]
+		},
+		{
+			"ShaderMapHash": "11528503F2FADD1013D8803561433D655227459B",
+			"Assets": [
+				"/OpenXR/Devices/ValveIndex/Right/MI_right_ValveIndex"
+			]
+		},
+		{
+			"ShaderMapHash": "17AE3D86A09501D585721FA2DEE9909ECFE45EF3",
+			"Assets": [
+				"/OpenXR/Devices/M_XRController"
+			]
+		},
+		{
+			"ShaderMapHash": "E6C881C4367A017C30CB5E1C97A435C113595511",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "A954F8FBE7BFB625D53290FA0E043AE0D60F25A7",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "55691DB30875E073E96ED8309D594252A7C2E2A9",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "31092181B2311DF8BFEFC02342BF71F96DDB0AC4",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/WireframeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "390CDBF1087A3BD7F6C4AC756A31D2EFF50EB629",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/VertexColorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "EFA0ABFC95AAB7148BE65BAC8E4D403FA1C0640F",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "EA0F6AC7299BB7FEB5AA62C8CF6E1B66AF8EC6B6",
+			"Assets": [
+				"/Paper2D/OpaqueUnlitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A714AEA3AB59E5E1063F5B045D9645674EC299E9",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "4131408FCDC8DBD3F5D0F64AD1F0D9AC3ED13F71",
+			"Assets": [
+				"/OculusVR/Materials/PokeAHoleMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "EDD9ADA24C2458F03EE9B1332FD26BB86BBD80AA",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "BDB6049078966B7E0BE2307A7474CF8D1CB2FB85",
+			"Assets": [
+				"/Engine/EditorMaterials/Camera/CineMat"
+			]
+		},
+		{
+			"ShaderMapHash": "DD30E89915AE2462924A4213E7BCDD2694D8C9AA",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "172D354B2E688E8694B4B56AA1A24E7CE17FFAB6",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F50CB4809F30B28444E9A8162646CD4396B7E073",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "6BE9EFACC4C3FB18F9DF805F9146228150B7FFD2",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "A3425B7B6BE14F897DA870ADD0BA4C022D47C073",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "F5414245F4D31163D035B55938C5737CCEBB355E",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "756823B80E02934AEFFBFFB5B3C64ECDEFEC5CF6",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided",
+				"/Engine/EngineMaterials/Widget3DPassThrough"
+			]
+		},
+		{
+			"ShaderMapHash": "D1CDE5662FED22405E7A4E13F4C26CCBBD37DEB7",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "6CB5CAC2EF8223107EA2B21906291F541215A3CF",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Xray",
+				"/Game/Blueprints/Gun_Metal"
+			]
+		},
+		{
+			"ShaderMapHash": "7AC6A1390AF3DBB7E84E8B4A480B7C7EA824BE87",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Main"
+			]
+		},
+		{
+			"ShaderMapHash": "14DAEDE5D017A5B05D9C06BE65F40ACF062368C6",
+			"Assets": [
+				"/Engine/EngineMaterials/BaseFlattenMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "2D004EBC46FA930DC5EEB476F7B9347C43CA9F1B",
+			"Assets": [
+				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
+			]
+		},
+		{
+			"ShaderMapHash": "78B65C37765E95A0B8DBA0C072BEE3403C871CDA",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "FC8D4E9DEB8E73CD3762EB1B60D28353B51F2E41",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "12C1F1A235C8BA81EC4F2D0CFB449FF28BCCEE3F",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "7B77059808207F1E9A50633FEE88CFD5F758DA9A",
+			"Assets": [
+				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "24C433FACF74298D2606D7B0639A88B8B135B9A2",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "C6BF47CB64F752FCE9305259E653EACD3344D89A",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
+			]
+		},
+		{
+			"ShaderMapHash": "D3E10B53B3CB7909C26F37653C968C68F61B4A4D",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "DF22970824430D8A3AD2C0266C312E0A6E0BC7A9",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Basic_Wall"
+			]
+		},
+		{
+			"ShaderMapHash": "9AC5894BFC45359437661EB2AC0AE5078401A959",
+			"Assets": [
+				"/Game/SpaceshipInterior/Materials/M_Scifi_Door_01"
+			]
+		},
+		{
+			"ShaderMapHash": "BBD359E68106B25FD690D0D4A440812FA17BA3BF",
+			"Assets": [
+				"/Game/SpaceshipInterior/Materials/M_Scifi_Floor_03"
+			]
+		},
+		{
+			"ShaderMapHash": "1F709444E1DB11611ADC991B50F337A686F82519",
+			"Assets": [
+				"/Game/SpaceshipInterior/Materials/M_Scifi_Wall_04"
+			]
+		},
+		{
+			"ShaderMapHash": "F66FC83168E3609D05D512B3BC2E29DE9767506D",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Basic_Floor"
+			]
+		},
+		{
+			"ShaderMapHash": "14B5A61F35D11AD2F57CD5F8704E7BED6F9C2745",
+			"Assets": [
+				"/Game/Materiały/M_Crystal"
+			]
+		},
+		{
+			"ShaderMapHash": "A06660B213E4EFB006A2D10E98139621BF23554F",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Chrome"
+			]
+		},
+		{
+			"ShaderMapHash": "381473242CE9B4835857D664D4BF415FCE51E90C",
+			"Assets": [
+				"/Game/SpaceshipInterior/Materials/M_Scifi_Glow"
+			]
+		},
+		{
+			"ShaderMapHash": "6D966E5C41CF95F7429D1D0F70508D19DCFA4D60",
+			"Assets": [
+				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "5532C31F2D3986334CDEFCBF4E1201FB6D4D6B00",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C380564A6414222F6A7E5F57D0F14982D5FD4F14",
+			"Assets": [
+				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
+			"ShaderMapHash": "192F650EEF30F58A8E64686C37FCC6D3B0EB6741",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_CobbleStone_Rough"
+			]
+		},
+		{
+			"ShaderMapHash": "05079645DDCF124612D45FD5B0886A99280BAD81",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_CobbleStone_Pebble"
+			]
+		},
+		{
+			"ShaderMapHash": "83805D518E3F66AFBE011BE09A6674C65A8DF4F3",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Ceramic_Tile_Checker"
+			]
+		},
+		{
+			"ShaderMapHash": "CE546EFAB8F791D26B9314F9FEEABA379CCCABA9",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Brick_Hewn_Stone"
+			]
+		},
+		{
+			"ShaderMapHash": "E278A89516B616AFDCD4CE707E3C2C33A854F2B7",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Brick_Cut_Stone"
+			]
+		},
+		{
+			"ShaderMapHash": "000FA9ABDD5BCFDE0E7B827F20D206074D2A1819",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Brick_Clay_Old"
+			]
+		},
+		{
+			"ShaderMapHash": "E280CADBB1F905A427BA1FA696C45EBB5E56238F",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Brick_Clay_New"
+			]
+		},
+		{
+			"ShaderMapHash": "EE5C779A86755473406ED05E9E7490306F8F5F67",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Brick_Clay_Beveled"
+			]
+		},
+		{
+			"ShaderMapHash": "00ACD0B43BEB9AE01C373EBB8D2FFA362E9E34ED",
+			"Assets": [
+				"/Engine/EngineMaterials/AntiAliasedTextMaterialTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "7E399F23D721F54A0D97D123548387ACA5389207",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_TableRound"
+			]
+		},
+		{
+			"ShaderMapHash": "E5A2A38F8DE5EBC5BFE0666AB88236957704957F",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Statue"
+			]
+		},
+		{
+			"ShaderMapHash": "64053DD20DD55BBB893B8CFCDF467A2FE0702D59",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_StatueGlass"
+			]
+		},
+		{
+			"ShaderMapHash": "A9223EF722A1976F02E4844188B2E458A701146B",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Chair"
+			]
+		},
+		{
+			"ShaderMapHash": "2E8420907651514121F81FBBC05B805804ECB455",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Copper"
+			]
+		},
+		{
+			"ShaderMapHash": "2E03A16FC9B8D6F43D7EE3677CA7C5683BC7CFD9",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Burnished_Steel"
+			]
+		},
+		{
+			"ShaderMapHash": "C2F3D6DA7DD6D5C19039244238EBE580DD484B3D",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Brushed_Nickel"
+			]
+		},
+		{
+			"ShaderMapHash": "4808F2C13D119176F2E8C48220A0C41C36814F04",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Lamp"
+			]
+		},
+		{
+			"ShaderMapHash": "73675733B6C9FB625BD19471C448920CFCC717FE",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_smoke_subUV"
+			]
+		},
+		{
+			"ShaderMapHash": "E728275E86305BFF6DC77C8B1CF973DB1FB3C6C7",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Spark"
+			]
+		},
+		{
+			"ShaderMapHash": "5FB583605FAD51777093E020EDE159CC4A7441AB",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Radial_Gradient",
+				"/Game/StarterContent/Particles/Materials/M_radial_ramp"
+			]
+		},
+		{
+			"ShaderMapHash": "13B9C1BFAE87A304BD7E1C7C6112EEF4A5AA66A5",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Heat_Distortion"
+			]
+		},
+		{
+			"ShaderMapHash": "DB4A6E58D03435E971AEBB01A0B5F65BA94DCCD5",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Fire_SubUV"
+			]
+		},
+		{
+			"ShaderMapHash": "F0FA02A67FBBCF715E35F0F2A4FFD15364BB3086",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Frame"
+			]
+		},
+		{
+			"ShaderMapHash": "72DB7E5A6B6B725CBECAD78E7FB2CF2F8EADC9A6",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Glass",
+				"/Game/SpaceshipInterior/Materials/M_Scifi_Glass"
+			]
+		},
+		{
+			"ShaderMapHash": "D7497840AC137E8C8AAC0D731C7CCB3ADD279DB2",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Dust_Particle"
+			]
+		},
+		{
+			"ShaderMapHash": "4824F604A30BC5219EF292894E6D5B0B1C2A7380",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Walnut"
+			]
+		},
+		{
+			"ShaderMapHash": "3B23D7BA68647DF0DD1CB3A63FA8D22B900CE602",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Pine"
+			]
+		},
+		{
+			"ShaderMapHash": "3E58ADAE4C06CCC672ECE98A6BA8E0A8BCDBBB69",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Oak"
+			]
+		},
+		{
+			"ShaderMapHash": "988096A1539C5A5F39CF1958345652A3F759D375",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Floor_Walnut_Worn"
+			]
+		},
+		{
+			"ShaderMapHash": "7293F4B212935DCC0A57547B03C953D24AE814D5",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Floor_Walnut_Polished"
+			]
+		},
+		{
+			"ShaderMapHash": "888FA0F09A6717FBC98CAEA29DA8E745A869D8EE",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Water_Ocean"
+			]
+		},
+		{
+			"ShaderMapHash": "B9FC330B84198BA79D67AD1358AFFACA8C3FD7EB",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Water_Lake"
+			]
+		},
+		{
+			"ShaderMapHash": "C24FE033C05120AF73E349FD63A2638164A53D4C",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Tech_Panel"
+			]
+		},
+		{
+			"ShaderMapHash": "3712AA3719AC40F15F0B6201641EDA31DF0299FC",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Tech_Hex_Tile_Pulse"
+			]
+		},
+		{
+			"ShaderMapHash": "CA53281C24BF05C15884E42781EE472783EA3D23",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Tech_Hex_Tile"
+			]
+		},
+		{
+			"ShaderMapHash": "C18B0705EDD0E0EC7867E99442036D241A1B5054",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Tech_Checker_Dot"
+			]
+		},
+		{
+			"ShaderMapHash": "D84EAA355BD6EA7CA37A421A0E89C35DADD656C9",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Rock_Slate"
+			]
+		},
+		{
+			"ShaderMapHash": "3536604E0C86AD97F1445377CBA5222E0BD519F5",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Rock_Sandstone"
+			]
+		},
+		{
+			"ShaderMapHash": "1C5341AA65E618F58BACDDD914ED88400BF3C356",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Rock_Marble_Polished"
+			]
+		},
+		{
+			"ShaderMapHash": "A34E9513E1507B85D1D30BAC49FB511AF7B3F1BF",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Rock_Basalt"
+			]
+		},
+		{
+			"ShaderMapHash": "2662B834334F1595D47E66B5DAABFDCC1F91834D",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Steel"
+			]
+		},
+		{
+			"ShaderMapHash": "4C677C082F3DCF98507A60C0927AC77006E2DA72",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Rust"
+			]
+		},
+		{
+			"ShaderMapHash": "EDA7A6D577EB0133614EB81AE0881C3D66CE5B54",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Gold"
+			]
+		},
+		{
+			"ShaderMapHash": "404BCC74169AB1E5D79193B91B9B8C7EAA05CB3B",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Ground_Moss"
+			]
+		},
+		{
+			"ShaderMapHash": "64EF441563B4E2652896675A9341549B2DB88E26",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Ground_Gravel"
+			]
+		},
+		{
+			"ShaderMapHash": "485725C82E671F793EADB7FCBDC3AAF92C509141",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Ground_Grass"
+			]
+		},
+		{
+			"ShaderMapHash": "848A095CBE87B1E6B661EA3518348DA9C6DF4A64",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Concrete_Tiles"
+			]
+		},
+		{
+			"ShaderMapHash": "D759BD80381B59F9597345BC0B20E373FF0EA3D0",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Concrete_Poured"
+			]
+		},
+		{
+			"ShaderMapHash": "A7F6ADE573DFB03C2EC79714CBE64F86A8AD2E53",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Concrete_Panels"
+			]
+		},
+		{
+			"ShaderMapHash": "403BE01FED35672468C59021EDD516BBF0154AC5",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Concrete_Grime"
+			]
+		},
+		{
+			"ShaderMapHash": "5FFD26758DDB5C02FE521CB7DC1BC4DD1900DFAD",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_CobbleStone_Smooth"
+			]
+		},
+		{
+			"ShaderMapHash": "AC50A361793F211DA25EF5F9C6DCE6EBCBF32171",
+			"Assets": [
+				"/Engine/EditorMeshes/ColorCalibrator/M_GreyBall"
+			]
+		},
+		{
+			"ShaderMapHash": "FBE6507D74A90CAF1D9703878E705BBEE6857E3C",
+			"Assets": [
+				"/Engine/EditorMeshes/ColorCalibrator/M_ColorGrid",
+				"/Game/StarterContent/Materials/M_ColorGrid_LowSpec"
+			]
+		},
+		{
+			"ShaderMapHash": "12A4CD629A96EC736B1DCD9D15D13675DC93FDE4",
+			"Assets": [
+				"/Engine/EditorMeshes/ColorCalibrator/M_ClearCoatBlack"
+			]
+		},
+		{
+			"ShaderMapHash": "7DCD77054A53363F7D91F653DCC448DFB99D8FE2",
+			"Assets": [
+				"/Engine/EditorMeshes/ColorCalibrator/M_ClearCoat"
+			]
+		},
+		{
+			"ShaderMapHash": "A165473EE0B6F49CBE44CF9DCD8C65DD55ED9812",
+			"Assets": [
+				"/Engine/EditorMeshes/ColorCalibrator/M_ChromeBall"
+			]
+		},
+		{
+			"ShaderMapHash": "7875DE8D2E60F0FEC44D3EF441472166EBC11041",
+			"Assets": [
+				"/Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI"
+			]
+		},
+		{
+			"ShaderMapHash": "BEC82E0E9F7F980E52C66AC59BE225CB3ED0EE9A",
+			"Assets": [
+				"/Game/StarterContent/Blueprints/Assets/M_LightStage_Arrows"
+			]
+		},
+		{
+			"ShaderMapHash": "F54906C80055D636BC39802D22A7721B7F62D200",
+			"Assets": [
+				"/Engine/EditorMaterials/Thumbnails/SkySphereMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "CBE1B9A36802EF5FE309B1F94BBC5001044B3DF3",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_AssetPlatform"
+			]
+		},
+		{
+			"ShaderMapHash": "1D6178555117125C6205ACB37AF4AD2C2033EB2F",
+			"Assets": [
+				"/Game/SpaceshipInterior/Materials/M_Scifi_Stripe_Decal_02"
+			]
+		},
+		{
+			"ShaderMapHash": "94787DE5B44F0B2B9C3A252BBAC9456D3047C248",
+			"Assets": [
+				"/Game/SpaceshipInterior/Materials/M_Scifi_Stripe_Decal_01"
+			]
+		},
+		{
+			"ShaderMapHash": "FCB3FEBFB62EBC55453D6330E04EE53497565CBA",
+			"Assets": [
+				"/Game/SpaceshipInterior/Materials/M_Scifi_Signs_Decal_04"
+			]
+		},
+		{
+			"ShaderMapHash": "431C13207F1B68D0D7A35BF97D1E064102A8E8DF",
+			"Assets": [
+				"/Game/SpaceshipInterior/Materials/M_Scifi_Signs_Decal_03"
+			]
+		},
+		{
+			"ShaderMapHash": "6276CEA21DEA587FB5BE7B3744B050C144E818C1",
+			"Assets": [
+				"/Game/SpaceshipInterior/Materials/M_Scifi_Signs_Decal_02"
+			]
+		},
+		{
+			"ShaderMapHash": "C187460B66ED4021C7BBA98766ED077A315A0C7D",
+			"Assets": [
+				"/Game/SpaceshipInterior/Materials/M_Scifi_Signs_Decal_01"
+			]
+		},
+		{
+			"ShaderMapHash": "0BFF3ADF82CF2971C204E2E283204AB36BCF4D05",
+			"Assets": [
+				"/Game/SpaceshipInterior/Materials/M_Scifi_Pillar_01_Color"
+			]
+		},
+		{
+			"ShaderMapHash": "294B8D3D3144F2BC73E2E9E32768EAB8E0770A40",
+			"Assets": [
+				"/Game/MS_PristineMe/Master_Materials/Standard_MasterMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "67B33CE20C85D955AE288A1CEF20CD5A953915CC",
+			"Assets": [
+				"/Game/AutomotiveMaterials/LevelAssets/Materials/M_SkyFloor"
+			]
+		},
+		{
+			"ShaderMapHash": "2D5751C637384F65BE2F49ACD16E6B7A304B8B3D",
+			"Assets": [
+				"/Game/AutomotiveMaterials/LevelAssets/Calibration/M_ChromeBall"
+			]
+		},
+		{
+			"ShaderMapHash": "950446E0385D115535698C174200255C70DD5E64",
+			"Assets": [
+				"/Game/AutomotiveMaterials/LevelAssets/Calibration/M_MacBethChart"
+			]
+		},
+		{
+			"ShaderMapHash": "EB0CAA55057194E503E96686ECDF709A2617A629",
+			"Assets": [
+				"/Game/AutomotiveMaterials/LevelAssets/Calibration/M_MatteBall"
+			]
+		},
+		{
+			"ShaderMapHash": "F9CD7E8AFF0D6E799C7537134558D0C80E623CED",
+			"Assets": [
+				"/Game/AutomotiveMaterials/Masters/M_Opaque_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "460BCDF3A7A3D4903C93345BEC7C1DEB66CB57A0",
+			"Assets": [
+				"/Game/AutomotiveMaterials/Materials/Exterior/Metal/MI_Metal_Chrome_02",
+				"/Game/AutomotiveMaterials/Materials/Exterior/Metal/MI_Metal_Zinc_Spangles",
+				"/Game/AutomotiveMaterials/Materials/Exterior/Metal/MI_Metal_Gold",
+				"/Game/AutomotiveMaterials/Materials/Exterior/Metal/MI_Metal_Chrome_01",
+				"/Game/AutomotiveMaterials/Materials/Exterior/Metal/MI_Metal_Brass",
+				"/Game/AutomotiveMaterials/Materials/Interior/Metal/MI_Metal_Aluminium_Brushed",
+				"/Game/AutomotiveMaterials/Materials/Interior/Metal/MI_Metal_Aluminium"
+			]
+		},
+		{
+			"ShaderMapHash": "3556CAB02323AB703E25AD1C61C445F7BBD8991F",
+			"Assets": [
+				"/Game/AutomotiveMaterials/Materials/Exterior/Metal/MI_Metal_Frosted_Reflective",
+				"/Game/AutomotiveMaterials/Materials/Exterior/Metal/MI_Metal_Frosted"
+			]
+		},
+		{
+			"ShaderMapHash": "32DBC64AFFB63E31128E625530A692B808FEF938",
+			"Assets": [
+				"/Game/AutomotiveMaterials/Materials/Exterior/Metal/MI_Metal_Painted",
+				"/Game/AutomotiveMaterials/Materials/Exterior/CaliperPaint/MI_Caliper_Grey",
+				"/Game/AutomotiveMaterials/Materials/Exterior/CaliperPaint/MI_Caliper_Bumpy",
+				"/Game/AutomotiveMaterials/Materials/Exterior/Rubber/MI_Rubber_Shiny",
+				"/Game/AutomotiveMaterials/Materials/Exterior/Rubber/MI_Rubber_Rough",
+				"/Game/AutomotiveMaterials/Materials/Exterior/Plastic/MI_Plastic_Satin",
+				"/Game/AutomotiveMaterials/Materials/Exterior/Plastic/MI_Plastic_Rough",
+				"/Game/AutomotiveMaterials/Materials/Exterior/Plastic/MI_Plastic_Glossy",
+				"/Game/AutomotiveMaterials/Materials/Exterior/Metal/MI_Metal_Bump_02",
+				"/Game/AutomotiveMaterials/Materials/Exterior/CaliperPaint/MI_Caliper_Yellow",
+				"/Game/AutomotiveMaterials/Materials/Exterior/CaliperPaint/MI_Caliper_red",
+				"/Game/AutomotiveMaterials/Materials/Interior/Rubber/MI_Rubber_Mold_Pyramide",
+				"/Game/AutomotiveMaterials/Materials/Interior/Rubber/MI_Rubber_Mold_Circle",
+				"/Game/AutomotiveMaterials/Materials/Interior/Rubber/MI_Rubber_Mold_Capsule",
+				"/Game/AutomotiveMaterials/Materials/Interior/Plastic/MI_Plastic_Smooth_Grey",
+				"/Game/AutomotiveMaterials/Materials/Interior/Plastic/MI_Plastic_Smooth",
+				"/Game/AutomotiveMaterials/Materials/Interior/Plastic/MI_Plastic_SmallGrain_Grey",
+				"/Game/AutomotiveMaterials/Materials/Interior/Plastic/MI_Plastic_SmallGrain_black",
+				"/Game/AutomotiveMaterials/Materials/Interior/Plastic/MI_Plastic_Silver",
+				"/Game/AutomotiveMaterials/Materials/Interior/Plastic/MI_Plastic_Mold_Recess",
+				"/Game/AutomotiveMaterials/Materials/Interior/Plastic/MI_Plastic_Mold_Pyramide",
+				"/Game/AutomotiveMaterials/Materials/Interior/Plastic/MI_Plastic_Mold_Circle",
+				"/Game/AutomotiveMaterials/Materials/Interior/Plastic/MI_Plastic_Mold_Capsule",
+				"/Game/AutomotiveMaterials/Materials/Interior/Plastic/MI_Plastic_Lines",
+				"/Game/AutomotiveMaterials/Materials/Interior/Plastic/MI_Plastic_Leather_Grey",
+				"/Game/AutomotiveMaterials/Materials/Interior/Plastic/MI_Plastic_Leather_Coarse",
+				"/Game/AutomotiveMaterials/Materials/Interior/Plastic/MI_Plastic_Leather_Black"
+			]
+		},
+		{
+			"ShaderMapHash": "78DC18475E031B960E5BB4B85B0957D1A7356DD2",
+			"Assets": [
+				"/Game/AutomotiveMaterials/LevelAssets/Skybox/M_HDRSky"
+			]
+		},
+		{
+			"ShaderMapHash": "FD33B9E3190BB3A01E8C868C6BC38FB9E58EED7F",
+			"Assets": [
+				"/Game/AutomotiveMaterials/Materials/Exterior/CaliperPaint/MI_Caliper_Chrome",
+				"/Game/AutomotiveMaterials/Materials/Exterior/Metal/MI_Metal_Gold_Frosted",
+				"/Game/AutomotiveMaterials/Materials/Exterior/Metal/MI_Metal_Gold_Dirty",
+				"/Game/AutomotiveMaterials/Materials/Exterior/CaliperPaint/MI_Caliper_Silver",
+				"/Game/AutomotiveMaterials/Materials/Interior/Metal/MI_Metal_Chrome_Black"
+			]
+		},
+		{
+			"ShaderMapHash": "1B95E13BC9FDCCDB5AF9073DB6301FC55C08767E",
+			"Assets": [
+				"/Game/AutomotiveMaterials/Masters/M_BrakeRotor_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "FA0D16D65CB30E9B7DB14275D90D029F50238BE2",
+			"Assets": [
+				"/Game/AutomotiveMaterials/Materials/Exterior/BrakeRotor/MI_BrakeRotor_Iron_Clean"
+			]
+		},
+		{
+			"ShaderMapHash": "2DE0979D5C6564A3D7AE41961CE43F228CFF7CBC",
+			"Assets": [
+				"/Game/AutomotiveMaterials/Materials/Exterior/BrakeRotor/MI_BrakeRotor_Carbon_Ceramic"
+			]
+		},
+		{
+			"ShaderMapHash": "BF18330304510D0EE8B0629414A3C2E8E2CA8624",
+			"Assets": [
+				"/Game/AutomotiveMaterials/Materials/Exterior/BrakeRotor/MI_BrakeRotor_Carbon",
+				"/Game/AutomotiveMaterials/Materials/Exterior/BrakeRotor/MI_BrakeRotor_Iron",
+				"/Game/AutomotiveMaterials/Materials/Exterior/Metal/MI_Metal_Radial"
+			]
+		},
+		{
+			"ShaderMapHash": "7A539502F987DE7EDC93A641EDF292525F6C910D",
+			"Assets": [
+				"/Game/AutomotiveMaterials/Masters/M_Emissive_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "66A1EAB517FF5F735D319A95E700C8406D060531",
+			"Assets": [
+				"/Game/AutomotiveMaterials/Masters/M_Additive_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "3BDA82AA9BD6BB332D0E2EF8923A46587BDCE082",
+			"Assets": [
+				"/Game/AutomotiveMaterials/Materials/Interior/CarbonFiber/MI_CarbonFiber_Uncoated",
+				"/Game/AutomotiveMaterials/Materials/Exterior/CarbonFiber/MI_CarbonFiber_Uncoated"
+			]
+		},
+		{
+			"ShaderMapHash": "CEE89B4F4A40DAF3ED7637C8B2E74D548DF7A627",
+			"Assets": [
+				"/Game/AutomotiveMaterials/Materials/Interior/CarbonFiber/MI_CarbonFiber",
+				"/Game/AutomotiveMaterials/Materials/Exterior/CarbonFiber/MI_CarbonFiber"
+			]
+		},
+		{
+			"ShaderMapHash": "DCF6ECC41C57ACC18BBE0D6284FD57155835015A",
+			"Assets": [
+				"/Game/AutomotiveMaterials/Materials/Exterior/Rubber/MI_Tire_Tread",
+				"/Game/AutomotiveMaterials/Materials/Exterior/Rubber/MI_Tire_Sidewall_Shiny",
+				"/Game/AutomotiveMaterials/Materials/Exterior/Rubber/MI_Tire_Sidewall_Rough",
+				"/Game/AutomotiveMaterials/Materials/Interior/Rubber/MI_Rubber_Floor_Mats"
+			]
+		},
+		{
+			"ShaderMapHash": "42DD0495172E37F181E84855A736DAD2BF15F058",
+			"Assets": [
+				"/Game/AutomotiveMaterials/Materials/Exterior/Reflector/MI_Reflector_Triangle_Red",
+				"/Game/AutomotiveMaterials/Materials/Exterior/Reflector/MI_Reflector_Triangle_Orange",
+				"/Game/AutomotiveMaterials/Materials/Exterior/Reflector/MI_Reflector_HoneyComb_Red",
+				"/Game/AutomotiveMaterials/Materials/Exterior/Reflector/MI_Reflector_HoneyComb_Orange",
+				"/Game/AutomotiveMaterials/Materials/Exterior/Reflector/MI_Reflector_Hexagon_Red",
+				"/Game/AutomotiveMaterials/Materials/Exterior/Reflector/MI_Reflector_Hexagon_Orange",
+				"/Game/AutomotiveMaterials/Materials/Exterior/Reflector/MI_Reflector_Hexagon_Chrome"
+			]
+		},
+		{
+			"ShaderMapHash": "AF71405D11AC4997798FBE20161AFFFD9DCD8E53",
+			"Assets": [
+				"/Game/AutomotiveMaterials/Materials/Exterior/Plastic/MI_Plastic_Clean"
+			]
+		},
+		{
+			"ShaderMapHash": "1DD80E67B06B7AEF883C6668C3E0E05E0E2D3E59",
+			"Assets": [
+				"/Game/AutomotiveMaterials/Materials/Exterior/Metal/MI_Miror",
+				"/Game/AutomotiveMaterials/Materials/Exterior/Metal/MI_Metal_Wear_03",
+				"/Game/AutomotiveMaterials/Materials/Exterior/Metal/MI_Metal_Wear_02",
+				"/Game/AutomotiveMaterials/Materials/Exterior/Metal/MI_Metal_Wear_01",
+				"/Game/AutomotiveMaterials/Materials/Exterior/Metal/MI_Metal_Steel",
+				"/Game/AutomotiveMaterials/Materials/Interior/Metal/MI_Metal_Steel_Brushed",
+				"/Game/AutomotiveMaterials/Materials/Interior/Metal/MI_Metal_Silver",
+				"/Game/AutomotiveMaterials/Materials/Interior/Metal/MI_Metal_Aluminum_SandBlast"
+			]
+		},
+		{
+			"ShaderMapHash": "3C654DE6AF770F73E452C6E9E8C984BF482F3CE5",
+			"Assets": [
+				"/Game/AutomotiveMaterials/Materials/Exterior/Metal/MI_Metal_Bump_01",
+				"/Game/AutomotiveMaterials/Materials/Interior/Metal/MI_Metal_Steel_SandBlast"
+			]
+		},
+		{
+			"ShaderMapHash": "A0A6E32CB5D90D000A0CDA902DB3932BC2E8A5E6",
+			"Assets": [
+				"/Game/AutomotiveMaterials/Materials/Exterior/Metal/MI_Metal_Brushed",
+				"/Game/AutomotiveMaterials/Materials/Interior/Metal/MI_Metal_Brushed"
+			]
+		},
+		{
+			"ShaderMapHash": "A1E9BCB964F0A55AB0AFD25EADD09C5ED9F84200",
+			"Assets": [
+				"/Game/AutomotiveMaterials/Materials/Exterior/Metal/MI_Metal_Anodized_01",
+				"/Game/AutomotiveMaterials/Materials/Interior/Metal/MI_Metal_Anodized_02"
+			]
+		},
+		{
+			"ShaderMapHash": "D33557C2977875FF2B301AE17E93B4D5C8968A3B",
+			"Assets": [
+				"/Game/AutomotiveMaterials/Materials/Exterior/Metal/MI_Grill_Circle"
+			]
+		},
+		{
+			"ShaderMapHash": "472D4D410ABBC18620637B9C372A36A38204DE1A",
+			"Assets": [
+				"/Game/AutomotiveMaterials/Masters/M_Glass_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "A6B389226BB4BA3AB50DFED1BC90BB87017A53B8",
+			"Assets": [
+				"/Game/AutomotiveMaterials/Masters/M_Tint_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "E2ABECE68E29573C012049A5E37CE8366DEA3F4A",
+			"Assets": [
+				"/Game/AutomotiveMaterials/Materials/Exterior/LicensePlate/MI_LicensePlate"
+			]
+		},
+		{
+			"ShaderMapHash": "0B7168485D37121DB57F695D4DA48B383DC81541",
+			"Assets": [
+				"/Game/AutomotiveMaterials/Materials/Exterior/Glass_RT/MI_Glass_RT_Windshield_Tinted",
+				"/Game/AutomotiveMaterials/Materials/Exterior/Glass_RT/MI_Glass_RT_Windshield",
+				"/Game/AutomotiveMaterials/Materials/Exterior/Glass_RT/MI_Glass_RT_Tinted",
+				"/Game/AutomotiveMaterials/Materials/Exterior/Glass_RT/MI_Glass_RT_Clear",
+				"/Game/AutomotiveMaterials/Materials/Interior/Glass_RT/MI_Glass_RT_Windshield_Int"
+			]
+		},
+		{
+			"ShaderMapHash": "EA7EAA520DAE13AA3BAD4FB9E3DDC88AC6B6B6E8",
+			"Assets": [
+				"/Game/AutomotiveMaterials/Materials/Exterior/Glass_RT/MI_Glass_RT_Windshield_SunCover",
+				"/Game/AutomotiveMaterials/Materials/Interior/Glass_RT/MI_Glass_RT_Windshield_SunCover_Int"
+			]
+		},
+		{
+			"ShaderMapHash": "861E71518618C794FCF8EC213BA3A09AB6E9CE2A",
+			"Assets": [
+				"/Game/AutomotiveMaterials/Materials/Exterior/Glass/MI_Glass_Windshield_Tinted",
+				"/Game/AutomotiveMaterials/Materials/Exterior/Glass/MI_Glass_Windshield",
+				"/Game/AutomotiveMaterials/Materials/Exterior/Glass/MI_Glass_Tinted",
+				"/Game/AutomotiveMaterials/Materials/Exterior/Glass/MI_Glass_Clear",
+				"/Game/AutomotiveMaterials/Materials/Interior/Glass/MI_Glass_Windshield_Int"
+			]
+		},
+		{
+			"ShaderMapHash": "8B64597A5424F00438645F102A53A12EF16D6C8D",
+			"Assets": [
+				"/Game/AutomotiveMaterials/Materials/Exterior/Glass/MI_Glass_Windshield_SunCover",
+				"/Game/AutomotiveMaterials/Materials/Interior/Glass/MI_Glass_Windshield_SunCover_Int"
+			]
+		},
+		{
+			"ShaderMapHash": "BA3634DE58F5896D2FF1F154097AA6BB8915D89F",
+			"Assets": [
+				"/Game/AutomotiveMaterials/Masters/M_Decal_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "FBA2ED835FFDD8B189F42CDF0408FB474CEF977F",
+			"Assets": [
+				"/Game/AutomotiveMaterials/Materials/Exterior/Decals/MI_Logo_02",
+				"/Game/AutomotiveMaterials/Materials/Exterior/Decals/MI_Logo_01"
+			]
+		},
+		{
+			"ShaderMapHash": "5A8ACB5D7F4E11A874CD796731603379C4FDAC4F",
+			"Assets": [
+				"/Game/AutomotiveMaterials/Masters/M_CarPaint_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "4163BB89AE1D8464C7DEED2448972D2BE4DBCECC",
+			"Assets": [
+				"/Game/AutomotiveMaterials/Materials/Exterior/CarPaint/MI_CarPaint_White",
+				"/Game/AutomotiveMaterials/Materials/Exterior/CarPaint/MI_CarPaint_Red"
+			]
+		},
+		{
+			"ShaderMapHash": "59E895D5DB6EC0133F1F8AFA1176F5F1AEFB9C97",
+			"Assets": [
+				"/Game/AutomotiveMaterials/Materials/Exterior/CarPaint/MI_CarPaint_Silver_Pearl",
+				"/Game/AutomotiveMaterials/Materials/Exterior/CarPaint/MI_CarPaint_BlueGreen_Pearl"
+			]
+		},
+		{
+			"ShaderMapHash": "15F0FCE8B84D073FB0DC78E3661200B15446BE38",
+			"Assets": [
+				"/Game/AutomotiveMaterials/Materials/Exterior/CarPaint/MI_CarPaint_Silver",
+				"/Game/AutomotiveMaterials/Materials/Exterior/CarPaint/MI_CarPaint_Plum",
+				"/Game/AutomotiveMaterials/Materials/Exterior/CarPaint/MI_CarPaint_Orange",
+				"/Game/AutomotiveMaterials/Materials/Exterior/CarPaint/MI_CarPaint_LightBlue",
+				"/Game/AutomotiveMaterials/Materials/Exterior/CarPaint/MI_CarPaint_Green",
+				"/Game/AutomotiveMaterials/Materials/Exterior/CarPaint/MI_CarPaint_DarkBlue",
+				"/Game/AutomotiveMaterials/Materials/Exterior/CarPaint/MI_CarPaint_Chocolat",
+				"/Game/AutomotiveMaterials/Materials/Exterior/CarPaint/MI_CarPaint_Cherry",
+				"/Game/AutomotiveMaterials/Materials/Exterior/CarPaint/MI_CarPaint_Charcoal",
+				"/Game/AutomotiveMaterials/Materials/Exterior/CarPaint/MI_CarPaint_Black",
+				"/Game/AutomotiveMaterials/Materials/Exterior/CarPaint/MI_CarPaint_Beige",
+				"/Game/AutomotiveMaterials/Materials/Exterior/CarPaint/MI_CarPaint_Gray"
+			]
+		},
+		{
+			"ShaderMapHash": "7759399676E66332A1B3384D74D8B6567D2D6401",
+			"Assets": [
+				"/Game/AutomotiveMaterials/Materials/Exterior/CarPaint/MI_CarPaint_Mix_03",
+				"/Game/AutomotiveMaterials/Materials/Exterior/CarPaint/MI_CarPaint_Mix_02",
+				"/Game/AutomotiveMaterials/Materials/Exterior/CarPaint/MI_CarPaint_Mix_01"
+			]
+		},
+		{
+			"ShaderMapHash": "F668C4C4DFFB75604F4D43678687B84E86A0EFBE",
+			"Assets": [
+				"/Game/AutomotiveMaterials/Materials/Exterior/CaliperPaint/MI_Caliper_Sparkly",
+				"/Game/AutomotiveMaterials/Materials/Interior/Wood/MI_Wood_Oak_Veneer_02"
+			]
+		},
+		{
+			"ShaderMapHash": "AC14DCC3803F11E0F4C0018B93E506DAB424B334",
+			"Assets": [
+				"/Engine/MapTemplates/Sky/M_Procedural_Sky_MASTER02"
+			]
+		},
+		{
+			"ShaderMapHash": "6DA192861F4BB1AE8B7AF1B7B30701CBDD39E213",
+			"Assets": [
+				"/Game/AutomotiveMaterials/Materials/Interior/Wood/MI_Wood_Oak_Veneer_03"
+			]
+		},
+		{
+			"ShaderMapHash": "C291D0E90220B8F13C5BC4F6E4C836119C66C5A4",
+			"Assets": [
+				"/Game/AutomotiveMaterials/Materials/Interior/Wood/MI_Wood_Oak_Veneer_01"
+			]
+		},
+		{
+			"ShaderMapHash": "1A6A982F48C111DFFDDC85FF02C1F25D146609B1",
+			"Assets": [
+				"/Game/AutomotiveMaterials/Masters/M_Textile_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "9C4CEF852C0F89C218F29ABE38050C0C0B281859",
+			"Assets": [
+				"/Game/AutomotiveMaterials/Materials/Interior/Textile/MI_Woven",
+				"/Game/AutomotiveMaterials/Materials/Interior/Textile/MI_TextileStriped_Satin",
+				"/Game/AutomotiveMaterials/Materials/Interior/Textile/MI_TextilePlain_Black",
+				"/Game/AutomotiveMaterials/Materials/Interior/Textile/MI_SeatBelt",
+				"/Game/AutomotiveMaterials/Materials/Interior/Textile/MI_Headliner_01",
+				"/Game/AutomotiveMaterials/Materials/Interior/Leather/MI_Suede_Grey",
+				"/Game/AutomotiveMaterials/Materials/Interior/Leather/MI_Suede_Brown"
+			]
+		},
+		{
+			"ShaderMapHash": "DA80EED898A6C10A53D6D40B406D29DD07359D5B",
+			"Assets": [
+				"/Game/AutomotiveMaterials/Materials/Interior/Textile/MI_Felt_Perforated"
+			]
+		},
+		{
+			"ShaderMapHash": "2B8C9C2FF74CD43BC10894BCD56AA4D1029A6815",
+			"Assets": [
+				"/Game/AutomotiveMaterials/Materials/Interior/Rubber/MI_Rubber_Weatherstrip",
+				"/Game/AutomotiveMaterials/Materials/Interior/Rubber/MI_Rubber_Smooth",
+				"/Game/AutomotiveMaterials/Materials/Interior/Plastic/MI_Plastic_Leather_Rubbery",
+				"/Game/AutomotiveMaterials/Materials/Interior/Leather/MI_Leather_Blue",
+				"/Game/AutomotiveMaterials/Materials/Interior/Leather/MI_Leather_Black",
+				"/Game/AutomotiveMaterials/Materials/Interior/Leather/MI_Leather_Beige",
+				"/Game/AutomotiveMaterials/Materials/Interior/Leather/MI_Leather_Yellow",
+				"/Game/AutomotiveMaterials/Materials/Interior/Leather/MI_Leather_White",
+				"/Game/AutomotiveMaterials/Materials/Interior/Leather/MI_Leather_Red",
+				"/Game/AutomotiveMaterials/Materials/Interior/Leather/MI_Leather_Orange",
+				"/Game/AutomotiveMaterials/Materials/Interior/Leather/MI_Leather_Grey",
+				"/Game/AutomotiveMaterials/Materials/Interior/Leather/MI_Leather_Green",
+				"/Game/AutomotiveMaterials/Materials/Interior/Leather/MI_Leather_Brown",
+				"/Game/AutomotiveMaterials/Materials/Interior/Leather/MI_Leather_Smooth_Black"
+			]
+		},
+		{
+			"ShaderMapHash": "720ED79B95B773C23D743FB4D8F655F6575F559F",
+			"Assets": [
+				"/Game/AutomotiveMaterials/Materials/Interior/Plastic/MI_Plastic_Smooth_Coated"
+			]
+		},
+		{
+			"ShaderMapHash": "CEE65AC16D8DB1F64CECA2751EED0F35F6E6885A",
+			"Assets": [
+				"/Game/AutomotiveMaterials/Materials/Interior/Plastic/MI_Plastic_Radial"
+			]
+		},
+		{
+			"ShaderMapHash": "F0AB4D27CC899DEA123630F014BA938086D7BB8E",
+			"Assets": [
+				"/Game/AutomotiveMaterials/Materials/Interior/Plastic/MI_Plastic_Polyvinyl",
+				"/Game/AutomotiveMaterials/Materials/Interior/Plastic/MI_Plastic_Polyviny_Carbonate",
+				"/Game/AutomotiveMaterials/Materials/Interior/Plastic/MI_Plastic_Polypropylene"
+			]
+		},
+		{
+			"ShaderMapHash": "ADE52B992489AEFFBB3A8E2F11500FB2D7490CC4",
+			"Assets": [
+				"/Game/AutomotiveMaterials/Materials/Interior/Plastic/MI_Plastic_Holes"
+			]
+		},
+		{
+			"ShaderMapHash": "8159EE3014CCBDEFEEF25BB4FDD42465DCE86CDD",
+			"Assets": [
+				"/Game/AutomotiveMaterials/Materials/Interior/Leather/MI_Leather_Pattern_03",
+				"/Game/AutomotiveMaterials/Materials/Interior/Leather/MI_Leather_Pattern_02",
+				"/Game/AutomotiveMaterials/Materials/Interior/Leather/MI_Leather_Pattern_01"
+			]
+		},
+		{
+			"ShaderMapHash": "4BBEA152AD9C44DA0B478D5AFC830FBF74644240",
+			"Assets": [
+				"/Game/AutomotiveMaterials/Materials/Interior/Leather/MI_Leather_Grey_Perforated",
+				"/Game/AutomotiveMaterials/Materials/Interior/Leather/MI_Leather_Brown_Perforated",
+				"/Game/AutomotiveMaterials/Materials/Interior/Leather/MI_Leather_Blue_Perforated",
+				"/Game/AutomotiveMaterials/Materials/Interior/Leather/MI_Leather_Black_Perforated",
+				"/Game/AutomotiveMaterials/Materials/Interior/Leather/MI_Leather_Beige_Perforated"
+			]
+		},
+		{
+			"ShaderMapHash": "4098AA338AFA5ED1E5C080E07ECBB65B5576EC27",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Shelf"
+			]
+		},
+		{
+			"ShaderMapHash": "0C8640007F68F568FB0B7D36A50085965B53F819",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Rock"
+			]
+		},
+		{
+			"ShaderMapHash": "D350804326C7235317B41F7417B108D51B8081B4",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_MaterialSphere_Plain"
+			]
+		},
+		{
+			"ShaderMapHash": "BF92B7BC41D29173E343A98248B5D6704727787C",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_MaterialSphere"
+			]
+		},
+		{
+			"ShaderMapHash": "6C80021D77B7FBE5BA85056BEC9D641E61C28711",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Door"
+			]
+		},
+		{
+			"ShaderMapHash": "0229ADA9A973090D936E93410D724337EE4AD624",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Bush"
+			]
+		},
+		{
+			"ShaderMapHash": "ED6C71D937C4B2CCCF8484A39273C969BB5F7AD7",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/m_flare_01"
+			]
+		},
+		{
+			"ShaderMapHash": "237E51E494F39D873FE8943B0EB946EBD32B5619",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_explosion_subUV"
+			]
+		},
+		{
+			"ShaderMapHash": "039A91F25D4D3C75E91D1CFBA4AFA4EC135038A6",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Burst"
+			]
+		},
+		{
+			"ShaderMapHash": "AEA377B90F67B0BC4D64B8E4C7E3CAD15CC8B123",
+			"Assets": [
+				"/Game/SpaceshipInterior/Materials/M_Scifi_Decal_01"
+			]
+		},
+		{
+			"ShaderMapHash": "794BCC5E0066291908AA930D0B672C6903BD38B5",
+			"Assets": [
+				"/Game/MS_PristineMe/Master_Materials/SurfaceBlend_MasterMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "3D5B4B3E2F0CA64FE957C73EDDFCEC088537DBDC",
+			"Assets": [
+				"/Game/MS_PristineMe/Master_Materials/Imperfection_MasterMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D7A444C87D26C54B5943BD20DD1A48B379E0D6FF",
+			"Assets": [
+				"/Game/MS_PristineMe/Master_Materials/Foliage_MasterMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "4DADA866D32253EC2CDEC497DD33C44FAF74A8C9",
+			"Assets": [
+				"/Game/MS_PristineMe/Master_Materials/Displacement_MasterMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "914C50FFE8FC00931D0C1D62E2ECE27A7EC3C59F",
+			"Assets": [
+				"/Game/MS_PristineMe/Master_Materials/Decal_MasterMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "881D47DFF11A53050FA7A7EC395B90F9E5037DC4",
+			"Assets": [
+				"/Game/MS_PristineMe/Master_Materials/ChannelPackingSample"
+			]
+		},
+		{
+			"ShaderMapHash": "C84D6E150A7C168FAB4DAC460475988AFE7707EF",
+			"Assets": [
+				"/Game/MS_PristineMe/Master_Materials/BrushDecal_MasterMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "8AB67668516B8556C3C4E5041784F84FBCF2CB8B",
+			"Assets": [
+				"/Game/MS_PristineMe/Master_Materials/Atlas_MasterMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "4C3357E63F29BE86E522782DE8F42AA8B3207E21",
+			"Assets": [
+				"/Game/AutomotiveMaterials/Utils/AngleConvertUtility/M_AnisoAngleConversion",
+				"/Game/AutomotiveMaterials/Utils/AngleConvertUtility/MI_AnisoAngleTo2DDirection"
+			]
+		}
+	]
+}
