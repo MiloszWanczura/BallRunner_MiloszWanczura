@@ -1,0 +1,8 @@
+
+C:\Users\milos\OneDrive\Dokumenty\GitHub\BallRunner_MiloszWanczura>git config --global http.lowSpeedLimit 1000
+
+C:\Users\milos\OneDrive\Dokumenty\GitHub\BallRunner_MiloszWanczura>git config --global http.lowSpeedTime 20
+
+C:\Users\milos\OneDrive\Dokumenty\GitHub\BallRunner_MiloszWanczura>git config --global lfs.activitytimeout 120
+
+C:\Users\milos\OneDrive\Dokumenty\GitHub\BallRunner_MiloszWanczura>git config --global http.postBuffer 157286400
